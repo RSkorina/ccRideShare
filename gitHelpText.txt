@@ -1,0 +1,8 @@
+Git commands:
+
+git add filename
+git commit -m "comment"
+git push
+
+miscellaneous git things:
+git status
